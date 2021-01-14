@@ -34,3 +34,11 @@
     - 라이브러리 관리 : MAVEN
     - Application : JDK
     - 프로젝트 관리도구: Trello
+
+5. 사용 기술
+    - Java, Spring Framework
+    - Servlet, Jsp
+    - Java script, Jquery, Ajax
+    - MyBatis
+    - Bootstrap
+    
