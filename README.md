@@ -38,7 +38,7 @@
 5. 사용 기술
     - Java, Spring Framework
     - Servlet, Jsp
-    - Java script, Jquery, Ajax
+    - Javascript, Jquery, Ajax
     - MyBatis
     - Bootstrap
     
